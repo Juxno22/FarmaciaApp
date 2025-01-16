@@ -1,0 +1,14 @@
+admin
+
+login
+registrer
+subir existencias(usamos id de producto, cantidad)
+CRUD para productos{
+	clave, nombre, precio, descripcion, cantidad, foto, es antibiotico?, generico o patente
+}
+reporte{(crear filtro para mostrar todas las ventas, ventas de patente y ventas de genericos, segun fechas)
+	reporte de ventas segun el usuario{
+		Si son genericos, sumar el total de sus ventas y 		sacar el 10% para comisiones	
+	}
+}
+
